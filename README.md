@@ -10,7 +10,7 @@ Lending Club Case Study
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
--Project Information
+Project Information
 The project is a data science project that uses the lending club data set to predict whether a loan will be defaulted or not.
 
 Project Background
@@ -26,10 +26,15 @@ The data set is a csv file with the loan data for the Lending Club.
 ## Conclusions
 Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
 a. DTI
+
 b. Grades
+
 c. Verification Status
+
 d. Annual income
+
 e. Pub_rec_bankruptcies
+
 
 
 
