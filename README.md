@@ -25,6 +25,7 @@ The data set is a csv file with the loan data for the Lending Club.
 
 ## Conclusions
 Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
+
 a. DTI
 
 b. Grades
