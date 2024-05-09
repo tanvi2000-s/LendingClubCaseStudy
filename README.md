@@ -41,8 +41,11 @@ e. Pub_rec_bankruptcies
 
 ## Technologies Used
 Pandas - version 1.3.4
+
 NumPy - version 1.20.3
+
 Seaborn - version 0.11.2
+
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
